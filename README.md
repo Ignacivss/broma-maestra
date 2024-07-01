@@ -9,6 +9,9 @@
 7. si quieres que el tiempo de que se ejecute el archivo python debes editar la linea 8 en la cual esta " total_runtime = 600 " y debe ser en segundos por ejemplo 2 minutos 120 segundos, etc
 
 # Requisitos
+
   tener python :v
+  
   saber ejecutar un archivo python
+  
   tener un android no iphone :v
